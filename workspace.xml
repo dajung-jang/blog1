@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5bdbeca7-4ce3-46ba-aa40-8c2f13a28891" name="변경" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="spring_project_blog" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2sVuLo3ABHdGfN5PDqrFt7un7Y4" />
+  <component name="ProjectViewState">
+    <option name="flattenModules" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "Gradle.spring_project_blog 빌드.executor": "Run",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "Spring Boot.SpringProjectBlogApplication.executor": "Run",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/fullstack503/spring/spring_project_blog",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "File.Encoding",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="bitc.fullstack503.spring_project_blog.service" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\fullstack503\spring\spring_project_blog\src\main\resources\static\bootstrap-5.3.3\js" />
+      <recent name="C:\fullstack503\spring\spring_project_blog\src\main\resources\static\bootstrap-5.3.3\css" />
+      <recent name="C:\fullstack503\spring\spring_project_blog\src\main\resources\static\images" />
+      <recent name="C:\fullstack503\spring\spring_project_blog\src\main\resources\static\bootstrap-5.3.3" />
+      <recent name="C:\fullstack503\spring\spring_project_blog\src\main\resources\templates\page" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\fullstack503\spring\spring_project_blog\src\main\resources\static" />
+      <recent name="C:\fullstack503\spring\spring_project_blog\src\main\resources" />
+      <recent name="C:\fullstack503\spring\spring_project_blog\src\main\resources\templates\page\template" />
+      <recent name="C:\fullstack503\spring\spring_project_blog\src\main\resources\static\bootstrap-5.3.3\js" />
+      <recent name="C:\fullstack503\spring\spring_project_blog\src\main\resources\static\bootstrap-5.3.3\css" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="SpringProjectBlogApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="spring_project_blog.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="bitc.fullstack503.spring_project_blog.SpringProjectBlogApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-28b599e66164-intellij.indexing.shared.core-IU-242.23726.103" />
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-IU-242.23726.103" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="애플리케이션 수준" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="디폴트 작업">
+      <changelist id="5bdbeca7-4ce3-46ba-aa40-8c2f13a28891" name="변경" comment="" />
+      <created>1738553011092</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1738553011092</updated>
+      <workItem from="1738553012030" duration="3337000" />
+      <workItem from="1738627102478" duration="12113000" />
+      <workItem from="1738656056213" duration="591000" />
+      <workItem from="1738713721955" duration="16863000" />
+      <workItem from="1738800124540" duration="20666000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="org.hibernate.AnnotationException" package="org.hibernate" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
